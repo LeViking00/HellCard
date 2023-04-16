@@ -1,6 +1,6 @@
 # HellCard
 
-This is an UiPath Process, so you need to downloas UiPAth Community Edition to use it
+This is an UiPath Process, so you need to download UiPAth Community Edition to use it
 
 This process only work if Hellcard is NOT on fullscreen
 
